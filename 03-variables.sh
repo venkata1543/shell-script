@@ -1,0 +1,7 @@
+#!/bin/bash
+
+PERSON1=GANDHI
+PERSON2=RAMESH
+echo "$PERSON2:: HI BRO $PERSON1";
+echo "$PERSON1:: HI $PERSON2 whats going on";
+echo "$PERSON2:: NOTHING BRO $PERSON1";

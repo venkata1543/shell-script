@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 echo "RAMESH:: HI BRO GANDHI";
 echo "GANDHI:: HI ramesh whats going on";
